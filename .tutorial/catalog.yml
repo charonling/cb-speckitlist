@@ -1,0 +1,42 @@
+chapters:
+  - code: []
+    id: FeRxy-Dk6
+    type: 1
+    title: 前言
+    article: /workspace/.tutorial/01.md
+    video: ''
+  - code: []
+    id: 7g9m7-gtG
+    type: 1
+    title: 核心问题：大型任务如何不翻车？
+    article: /workspace/.tutorial/02.md
+  - code: []
+    id: vEn95-pN9
+    type: 1
+    title: 任务拆解方法论
+    article: /workspace/.tutorial/03.md
+  - code: []
+    id: ZwIza-24e
+    type: 1
+    title: 实操：让 CodeBuddy 根据 Speckit 自动生成
+    article: /workspace/.tutorial/04.md
+  - code: []
+    id: Zz9sR-zzX
+    type: 1
+    title: 核心技巧：当 AI 跑偏时的纠偏策略
+    article: /workspace/.tutorial/05.md
+  - code: []
+    id: TcHQt-zSP
+    type: 1
+    title: 实战流程总结
+    article: /workspace/.tutorial/06.md
+  - code: []
+    id: N3FYC-Z8w
+    type: 1
+    title: 课后练习
+    article: /workspace/.tutorial/07.md
+  - code: []
+    id: zyDAi-lLf
+    type: 1
+    title: 本讲小结
+    article: /workspace/.tutorial/08.md
